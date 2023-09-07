@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+.object-cover{
+    /* border-right: 4px solid white;
+    border-bottom: 4px solid white; */
+    box-shadow: 0px 0px 6px 0px;
+}
+
+
+
+
+
